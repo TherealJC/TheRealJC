@@ -17,3 +17,16 @@ description: >-
 
 Here you can see that the company is able to hire specialists for each division, and those divisions can focus solely on their intended roles, making the company more efficient as a whole. The companies organized structure allows growth.
 
+
+
+
+
+
+
+
+
+
+
+**References**  
+Feigenbaum, Eric. "Technology and Organizational Structure." Small Business - Chron.com, [http://smallbusiness.chron.com/technology-organizational-structure-3818.html](http://smallbusiness.chron.com/technology-organizational-structure-3818.html). Accessed 05 March 2020.
+
