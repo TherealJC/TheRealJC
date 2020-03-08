@@ -87,15 +87,15 @@ Technologies impacts on the workplace
 
 ## **References**
 
-_What Is Business Strategy_. \(n.d\). Business Jargons.[ https://businessjargons.com/business-strategy.html](https://businessjargons.com/business-strategy.html). Accessed 08 March 2020.
+Cancialosi, C. \(2017, July 17\) _What is Organizational Culture? ._ Gotham Culture. [https://gothamculture.com/what-is-organizational-culture-definition/](https://gothamculture.com/what-is-organizational-culture-definition/). Accessed 08 March 2020
 
 Deal T. E. and Kennedy, A. A. \(1982, 2000\) _Corporate Cultures: The Rites and Rituals of Corporate Life_, Harmondsworth, Penguin Books, 1982; reissue Perseus Books, 2000.
 
-Feigenbaum, Eric. \(n.d.\). "_Technology and Organizational Structure_." Small Business - Chron.com. [http://smallbusiness.chron.com/technology-organizational-structure-3818.html](http://smallbusiness.chron.com/technology-organizational-structure-3818.html). Accessed 05 March 2020.
+_Definition of a Business Process_. \(n.d\). Appian. [https://www.appian.com/bpm/definition-of-a-business-process/](https://www.appian.com/bpm/definition-of-a-business-process/) Accessed 08 March 2020
 
-Cancialosi, C. \(2017, July 17\) _What is Organizational Culture? ._ Gotham Culture. [https://gothamculture.com/what-is-organizational-culture-definition/](https://gothamculture.com/what-is-organizational-culture-definition/). Accessed 08 March 2020
+Feigenbaum, Eric. \(n.d.\). "_Technology and Organizational Structure_." Small Business - Chron.com. [http://smallbusiness.chron.com/technology-organizational-structure-3818.html](http://smallbusiness.chron.com/technology-organizational-structure-3818.html). Accessed 05 March 2020.
 
 _Impact of Technology on Structure & Design of Organizations_. \(2017, December 1\). [https://study.com/academy/lesson/impact-of-technology-on-structure-design-of-organizations.html](https://study.com/academy/lesson/impact-of-technology-on-structure-design-of-organizations.html). Accessed 08 March 2020.
 
-_Definition of a Business Process_. \(n.d\). Appian. [https://www.appian.com/bpm/definition-of-a-business-process/](https://www.appian.com/bpm/definition-of-a-business-process/) Accessed 08 March 2020
+_What Is Business Strategy_. \(n.d\). Business Jargons.[ https://businessjargons.com/business-strategy.html](https://businessjargons.com/business-strategy.html). Accessed 08 March 2020.
 
