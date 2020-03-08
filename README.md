@@ -29,7 +29,7 @@ So basically improving what our phones can do and how much they can do. Developi
 Accounting Software, simplifying accounting by developing/maintaining programs \(Xero\) and services and support
 
 [https://www.storypark.com/](https://www.storypark.com/)  
-Document and support children’s learning. Aim to engage families in children's development. Makes supporting your childs learning easier through technology \(stats, reports, assignments, documentation, results\)
+Document and support children’s learning. Aim to engage families in childrens development. Makes supporting your childs learning easier through technology \(stats, reports, assignments, documentation, results\)
 
 [http://www.ashen-game.com/](http://www.ashen-game.com/)  
 Ashen is an online role playing game, From a company called A44. They provide a product \(The game\) and then ongoing services. They would deal with every part of the IT process \(Scoping, designing, developing, implementing, monitoring and then maintaining. \(game development, maintaining the game/servers, game support\)
@@ -38,7 +38,7 @@ Ashen is an online role playing game, From a company called A44. They provide a 
 Web designer, design 
 
 [https://www.equinox.co.nz/](https://www.equinox.co.nz/)  
-IT consultant services, can help to create a business plan, general knowledge of IT and how IT works in current businesses, consultant for IT services
+IT consultant services
 
 
 
