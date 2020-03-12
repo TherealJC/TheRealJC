@@ -12,6 +12,10 @@ Riot Games, Inc. is an American video game developer, publisher, and E-sports to
 
 Who do I think their Information Management stakeholders might be ?  
 A large database type company  
+A massive internet/network security type of company  
+E-sports
+
+I really have no idea about stakeholders, but with Riot being such a large, internet based company, I would guess that their stakeholders are in the same area, maybe also marketing, global support.  
 
 
 
