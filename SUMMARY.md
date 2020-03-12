@@ -8,4 +8,5 @@
 * [Activity 1.5](activity-1.5.md)
 * [Activity 2.1](activity-2.1.md)
 * [Activity 2.2](activity-2.2.md)
+* [Activity 2.3](activity-2.3.md)
 
