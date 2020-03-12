@@ -10,7 +10,7 @@ description: >-
 
 Information Management includes collection of information and the distribution to audiences, processing and delivering info, classification and coding of records, archiving, developing retention schedules, managing the life cycle, database design and structures, physical storage/electronic/paper, audits, handling of sensitive materials externally/internally.
 
-Information management includes both electronic and physical management. 
+Information management includes both electronic and physical info/management. 
 
 Capture, organize, and process the info to the right people at the right time.  
 \(Paraphrased from zhuzhu1057's video\)
@@ -22,6 +22,14 @@ On AIIM's page "_What is Information Managemen_t" it's claimed that information 
 * Information the organization needs to keep is managed and retained corporately.
 
 Information management is a corporate responsibility that needs to be addressed and followed from the top levels of management to the front line worker. Organizations and employees must be accountable to capture, manage, store, share, preserve and deliver information appropriately and responsibly.
+
+
+
+What are the benefits of IM? It can be used to reduce costs, reduce uncertainty or risks, add value to existing products or services \(through testing and the info that is gathered from testing and consumer info\), and to create new value through new information based products or services.
+
+IM is becoming larger, more important, and more useful, thanks to the technology used around IM being constantly upgraded. People and businesses are finding new innovative ways of improving systems, reaching further, and improving on every aspect of information management.
+
+Info Management Concepts: Identifying information needs, Acquiring/creating information, Organising and storing information, Analysing and interpreting information, Using and sharing information, Archiving and/or deleting information.
 
 
 
