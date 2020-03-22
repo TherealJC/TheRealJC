@@ -7,12 +7,6 @@ Part 1: Gather feedback from 2 other people. How do they see you as a communicat
   
 Part 2: This part of the assignment requires you to reflect on two examples of interpersonal communication that you have been involved within business settings. \(Try to use IT examples if you can\). It may be that you are the employee or the customer. For each example briefly explain the context in which the communication happened and identify and explain the
 
-
-
-
-
-
-
 I have been tasked to evaluate myself in the following ways: how I view myself as a communicator, personal factors and behaviors that influence my communication with others \(work/classroom situations\). I will start by detailing my life up until now, mainly the events that had the most impact on my life. This will help to understand my communication style, and how it has changed.
 
 _**The Past:**_ My name is Jamie Crowther, I was born in Nelson on the 17th of September 1995. I am the youngest in my family, I have 2 older brothers and 2 older sisters. I spent the first 4 years of my life in Motueka, with my 2 older brothers and my parents. My 2 sisters have a different father, that my mother was with before my dad.   
