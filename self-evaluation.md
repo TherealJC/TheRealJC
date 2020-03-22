@@ -80,7 +80,10 @@ The "I don't like to explain things" i think stems from being too critical of ot
 Being in a multi-cultural relationship, we rely heavily on non-verbal communication, looking at body language, para-language, and distance can all help with communicating well.  
 I am planning to work on speaking my mind, expressing my emotions more, I don't see much reason to talk much
 
-_**Feedback \#2**_
+_**Feedback \#2**_   
+I asked a previous co-worker that I reported to daily to give me feedback on my communication in the office, she said that I was: Quiet, didn't speak much but listened well, not good at working with 'not so good' workers, friendly, reliable,   
+This is another reflection of what I have previously evaluated as communication type. Despite not talking much, I am a very good listener, I only need to hear something once, and I will commit it to memory if It is important. Not good at communicating with others that I did not value.  
+_****_
 
 _\*\*\*\*_
 
