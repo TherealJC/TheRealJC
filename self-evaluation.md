@@ -1,11 +1,8 @@
 # Self Evaluation
 
-Tasks:  
-Self-awareness Explain how you view yourself as a communicator and personal factors and behaviors that influence the way you communicate with others, particularly in work and classroom situations. Use relevant theory and concepts used in class and in the textbook to help explain your answer, \(O’Rourke, chapter 4 is very worth reading\).   
-  
-Part 1: Gather feedback from 2 other people. How do they see you as a communicator? Are their views news to you? This feedback should help you understand how you come across to others. Include their responses in your self-analysis.   
-  
-Part 2: This part of the assignment requires you to reflect on two examples of interpersonal communication that you have been involved within business settings. \(Try to use IT examples if you can\). It may be that you are the employee or the customer. For each example briefly explain the context in which the communication happened and identify and explain the
+~~_**Self-awareness Explain how you view yourself as a communicator and personal factors and behaviors that influence the way you communicate with others, particularly in work and classroom situations. Use relevant theory and concepts used in class and in the textbook to help explain your answer, \(O’Rourke, chapter 4 is very worth reading\).**_~~   
+_**Part 1: Gather feedback from 2 other people. How do they see you as a communicator? Are their views news to you? This feedback should help you understand how you come across to others. Include their responses in your self-analysis.   
+Part 2: This part of the assignment requires you to reflect on two examples of interpersonal communication that you have been involved within business settings. \(Try to use IT examples if you can\). It may be that you are the employee or the customer. For each example briefly explain the context in which the communication happened and identify and explain the**_
 
 I have been tasked to evaluate myself in the following ways: how I view myself as a communicator, personal factors and behaviors that influence my communication with others \(work/classroom situations\). I will start by detailing my life up until now, mainly the events that had the most impact on my life. This will help to understand my communication style, and how it has changed.
 
