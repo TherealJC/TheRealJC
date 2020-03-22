@@ -16,7 +16,7 @@ Part 2: This part of the assignment requires you to reflect on two examples of i
 I have been tasked to evaluate myself in the following ways: how I view myself as a communicator, personal factors and behaviors that influence my communication with others \(work/classroom situations\). I will start by detailing my life up until now, mainly the events that had the most impact on my life. This will help to understand my communication style, and how it has changed.
 
 _**The Past:**_ My name is Jamie Crowther, I was born in Nelson on the 17th of September 1995. I am the youngest in my family, I have 2 older brothers and 2 older sisters. I spent the first 4 years of my life in Motueka, with my 2 older brothers and my parents. My 2 sisters have a different father, that my mother was with before my dad.   
-My mum and dad separated in 1999, I was 4 years old. It was very confusing for me at the time, but growing up I realized their separation was mainly caused by being too incompatible, too different from each other. With mum being adventurous and loving change, while dad never embraced change, the opposite in fact, enjoying his repetitive never-changing schedule.   
+My mum and dad separated in 1999, I was 4 years old. It was very confusing for me at the time, but growing up I realized their separation was mainly caused by being too incompatible, too different from each other. With mum being adventurous and loving change, while dad never embraced change, the opposite in fact, enjoying his repetitive never-changing schedule. My dad is a very strong silent type, he is caring, but very difficult to talk too as he doesn't express himself, or even talk 90% of the time, this is a very big factor on my personality, as I grew up to become quite similar to him communication wise.  
 Mum took me and my brother and moved to the North Island, to a horrible place called "Eketahuna", leaving my oldest brother with our dad in Motueka, as he had already started school and made friends.  
 My time during primary school was mostly good, I was popular enough, a smart kid that enjoyed learning, playing with friends, cartoons, and gaming.  
 Earlier I called Eketahuna horrible, I will explain why, as I think this was a big turning point in my character and personality. During year 8, the last year of primary school, I was heavily bullied by older and intimidating 'gang' kids, or rather, young stupid Maori's with gang related older brothers. They would scare and intimidate me on the way to school, and one time they came to my house trying to provoke a fight. To make it worse, they were bullying me when I had done nothing wrong. At that age I couldn't understand their reasons. I believe this strongly affected my personality and behaviors, the beginning of my reserved, shy, quiet, awkward nature. I spent most of that year inside, playing a game called Final Fantasy 7, avoiding going outside at any costs, mum wouldn't let me skip school however, which upset me at the time, but now I see she was doing her job, and being the youngest, I was already quite spoiled.
@@ -58,12 +58,13 @@ I don't like to bother others, I will often change my behaviors to not bother pe
 I think in a very selfish way, but I know this about myself, I am very self-aware and self-judgemental, and I just want others to be the same. I will rarely ever share my opinions of others to them, I keep it all in my head, there is no point in saying something that will only cause negative affects. When I am bothered or irritated, I go inward, I get very quiet.  
 The big problem that I have with communication is that I don't like it unless it is necessary and convenient, and I don't like wasting any amount of time. So many people just talk without thinking, and their words have no value, no meaning, no thought. For example, small talk, we do it so we don't feel awkward, but I despise small talk as It is always irrelevant, useless information being shared, which results as a waste of time in my opinion.   
   
-My communication style is constantly affected by my mood, I can be really social, or my usual quiet self. Even when socializing, I am constantly in my mind, evaluating everything.  
+My communication style is constantly affected by my mood, I can be really social, or my usual quiet self. Even when socializing, I am constantly in my mind, evaluating everything. I am not good with maintaining eye contact, it makes me feel awkward, my body language is quite stiff due to me being aware of how my body looks and trying to look "normal" to others, my communication is very dependent on the environment, for example in a classroom I will be on defense, anxious and nervous due to all the people around me that differ from my style and ideals, but with similar people, I can act confidently and feel more comfortable to be myself.  
+I am a lot more comfortable with mediated communicated, like messaging, as this cuts out a lot of non verbal parts of communicating, and is quick and efficient.  
 My interpersonal communication is dependent on if I like the person, and if I can see their value or not. My communication with people I like can be improved by me saying what's on my mind, being more open to their opinions and ideas.   
 My communication with people I don't value really needs to be improved. I need to work on being assertive, making my opinion known, be more accepting of others flaws, more accepting of others in general, reduce prejudice, try to communicate more.
 
 I took the Jung personality test and had my personality shown as INTJ. I tried the quiz a few times, one while thinking in a positive, social mood, the other with a reclusive mood. Interestingly, all 3 times I received the same result. I was surprised at the accuracy of the test, while reading the INTJ description, I could relate with most of it.  
-Here are some examples from my results that help to prove my self evaluation with proper research.  
+Here are some examples from my results that show similarities with my self evaluation, backed by proper research.  
   
 "People of this type are perfectionists, with a seemingly endless capacity for improving upon anything that takes their interest. What prevents them from becoming chronically bogged down in this pursuit of perfection is the pragmatism so characteristic of the type: INTJs apply \(often ruthlessly\) the criterion "Does it **work**?" to everything from their own research efforts to the prevailing social norms. This in turn produces an unusual independence of mind, freeing them from the constraints of authority, convention, or sentiment for its own sake".
 
@@ -73,8 +74,47 @@ Here are some examples from my results that help to prove my self evaluation wit
   
 "To complicate matters, people of this type are usually extremely private, and can often be naturally impassive as well, which makes them easy to misread and misunderstand,  INTJs really just want people to make sense"  
   
-"Probably the strongest INTJ assets in the interpersonal area are their intuitive abilities"  
+"Probably the strongest INTJ assets in the interpersonal area are their intuitive abilities"
+
+I also took a "Risk Type Profile" which basically highlights your risk taking attitudes, again, I got a result that I could mostly relate to, and that helps confirm my self evaluation. My main 2 types were "Moralist" and "Rational". I will paraphrase from each page the attributes that I can relate to.  
   
+"Moralist thinking is analytical and creative, they tend to analyze every situation, they pay more attention and attach more importance to the unfavourable events.  
+Moralists are often shy, sensitive people, some of them have problems with communication. Their strong feelings of self respect and dignity accounts for their shyness, although modesty is not the only reason for it. It also arises from a fear that should they act awkwardly, they would lose respect of others. Their fear of defeat appears to be stronger than their desire for victory. Consequently, they are prevented from realizing their capabilities in full and hindered in their advancement in life. In general, they value the harmony in their soul more than the comforts of life. They constantly work to create, maintain and perfect order in their perception of life, trying to avoid inner conflicts with themselves.  
+They do not trust their intuition and their intellect appears to be their stronger point; yet, since they are inclined to doubt everything, they do not trust it either. This doubtfulness leads not only to lower level of expectations but also diminished creative potential and drive" _****Moralist Type \(n.d.\)._
+
+"Rational people are good at goal setting and distinguishing between what they really need and what they can easily do without.  Faced with uncertainty and the need to take a risky decision, the Rational start with assessing their chances of success and the potential outcomes of their decisions, both positive and negative.  The Rational are well-prepared to carefully evaluate all potential outcomes of their actions across a variety of scenarios, and routinely do so. They have their own opinions on many socio-political issues but prefer not to impose them on others. They are open-minded but don't like extremism or aggressiveness. They know their limits and are content once they have reached them. They are not egotistical and feel no need to prove their worth to others or demonstrate their own superiority". _Rational Type \(n.d.\)._  
   
-_**Feedback**_
+_**Feedback \#1**_  
+Firstly, I asked my partner to judge my communication, as she is the one who I spend the most time with. I asked her to be brutally honest. She is from Thailand, so English is her second language.  
+The main things that she pointed out were:
+
+* I don't like to explain things
+* I don't like to talk much
+* I'm not really good at expressing my emotions
+
+This all reflects what I am already aware of, nothing new to expand on.  
+I don't like to talk much if it isn't about something important, I don't like to negatively affect others, so I usually keep my negative thoughts to myself, which leads to bad expression of my emotions.  
+The "I don't like to explain things" i think stems from being too critical of others and being too quick to get irritated, If i am explaining something that I think is simple, and they aren't understanding, I feel like it is a waste of time. They might understand better is they were to research the information themselves.  
+Being in a multi-cultural relationship, we rely heavily on non-verbal communication, looking at body language, para-language, and distance can all help with communicating well.  
+I am planning to work on speaking my mind, expressing my emotions more, I don't see much reason to talk much
+
+_**Feedback \#2**_
+
+_\*\*\*\*_
+
+_\*\*\*\*_
+
+_\*\*\*\*_
+
+_\*\*\*\*_
+
+_**References**_
+
+_\*\*\*\*_[_**http://www.humanmetrics.com/personality/intj**_](http://www.humanmetrics.com/personality/intj)_\*\*\*\*_
+
+_\*\*\*\*_[_**http://www.humanmetrics.com/risk-taking/moralist-type**_](http://www.humanmetrics.com/risk-taking/moralist-type)
+
+
+
+_\*\*\*\*_[_**http://www.humanmetrics.com/risk-taking/quiz-result?d=iLNE\_NxttDVHr2PKGvsoWJfcLqFp6YOt2WhzBmkuzBdH3W9yONBlOb6f702cXv5j7cvoiwietPPn6owE1KYSu0\_M22IEsiBanKVNIJH4x9s1**_](http://www.humanmetrics.com/risk-taking/quiz-result?d=iLNE_NxttDVHr2PKGvsoWJfcLqFp6YOt2WhzBmkuzBdH3W9yONBlOb6f702cXv5j7cvoiwietPPn6owE1KYSu0_M22IEsiBanKVNIJH4x9s1)_\*\*\*\*_
 
