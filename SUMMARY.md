@@ -12,4 +12,5 @@
 * [Activity 2.3](activity-2.3.md)
 * [Activity 3.1](activity-3.1.md)
 * [Activity 3.2](activity-3.2.md)
+* [Self Evaluation](self-evaluation.md)
 
