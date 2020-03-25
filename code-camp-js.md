@@ -20,3 +20,19 @@ position of the .
 
  In JavaScript, when the `+` operator is used with a `String` value, it is called the concatenation operator. You can build a new string out of other strings by concatenating them together.
 
+ You can find the length of a `String` value by writing `.length` after the string variable or string literal.
+
+With JavaScript `array` variables, we can store several pieces of data in one place. You start an array declaration with an opening square bracket, end it with a closing square bracket, and put a comma between each entry, like this: `var sandwich = ["peanut butter", "jelly", "bread"]`.
+
+ You can also nest arrays within other arrays, like this: `[["Bulls", 23], ["White Sox", 45]]`. This is also called a multi-dimensional array. Unlike strings, the entries of arrays are mutable and can be changed freely.                                               var ourArray = \[50,40,30\];           ourArray\[0\] = 15;           // equals \[15,40,30\]
+
+An easy way to append data to the end of an array is via the `push()` function. `.push()` takes one or more parameters and "pushes" them onto the end of the array.
+
+```text
+var arr = [1,2,3];
+arr.push(4);
+// arr is now [1,2,3,4]
+```
+
+ That's where `.shift()` comes in. It works just like `.pop()`, except it removes the first element instead of the last.  `.unshift()` works exactly like `.push()`, but instead of adding the element at the end of the array, `unshift()` adds the element at the beginning of the array.
+
