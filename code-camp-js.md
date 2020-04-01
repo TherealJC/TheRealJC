@@ -50,3 +50,7 @@ Then we can call `testFun`: `testFun("Hello", "World");` We have passed two argu
 
  `If` statements are used to make decisions in code. The keyword `if` tells JavaScript to execute the code in the curly braces under certain conditions, defined in the parentheses. These conditions are known as `Boolean` conditions and they may only be `true` or `false`.
 
+Strict equality \(`===`\) is the counterpart to the equality operator \(`==`\). However, unlike the equality operator, which attempts to convert both values being compared to a common type, the strict equality operator does not perform a type conversion.
+
+If the values being compared have different types, they are considered unequal, and the strict equality operator will return false.
+
