@@ -1,3 +1,7 @@
+---
+description: Helpful Tips from Basic Javascript on FreeCodeCamp
+---
+
 # Code Camp JS
 
  In computer science, data is anything that is meaningful to the computer. JavaScript provides seven different data types which are `undefined`, `null`, `boolean`, `string`, `symbol`, `number`, and `object`.
@@ -53,4 +57,57 @@ Then we can call `testFun`: `testFun("Hello", "World");` We have passed two argu
 Strict equality \(`===`\) is the counterpart to the equality operator \(`==`\). However, unlike the equality operator, which attempts to convert both values being compared to a common type, the strict equality operator does not perform a type conversion.
 
 If the values being compared have different types, they are considered unequal, and the strict equality operator will return false.
+
+ The inequality operator \(`!=`\) is the opposite of the equality operator. It means "Not Equal" and returns `false` where equality would return `true` and _vice versa_. Like the equality operator, the inequality operator will convert data types of values while comparing.
+
+ The strict inequality operator \(`!==`\) is the logical opposite of the strict equality operator. It means "Strictly Not Equal" and returns `false` where strict equality would return `true` and _vice versa_. Strict inequality will not convert data types.
+
+ The greater than operator \(`>`\) compares the values of two numbers. If the number to the left is greater than the number to the right, it returns `true`. Otherwise, it returns `false`.
+
+ The greater than or equal to operator \(`>=`\) compares the values of two numbers. If the number to the left is greater than or equal to the number to the right, it returns `true`. Otherwise, it returns `false`.
+
+ Sometimes you will need to test more than one thing at a time. The logical and operator \(`&&`\) returns `true` if and only if the operands to the left and right of it are true.  
+The same effect could be achieved by nesting an if statement inside another if:
+
+```text
+if (num > 5) {
+  if (num < 10) {
+    return "Yes";
+  }
+}
+return "No";
+```
+
+will only return "Yes" if `num` is greater than `5` and less than `10`. The same logic can be written as:
+
+```text
+if (num > 5 && num < 10) {
+  return "Yes";
+}
+return "No";
+```
+
+ The logical or operator \(`||`\) returns `true` if either of the operands is `true`. Otherwise, it returns `false`.
+
+When a condition for an `if` statement is true, the block of code following it is executed. What about when that condition is false? Normally nothing would happen. With an `else` statement, an alternate block of code can be executed.
+
+```text
+if (num > 10) {
+  return "Bigger than 10";
+} else {
+  return "10 or Less";
+}
+```
+
+If you have multiple conditions that need to be addressed, you can chain `if` statements together with `else if` statements.
+
+```text
+if (num > 15) {
+  return "Bigger than 15";
+} else if (num < 5) {
+  return "Smaller than 5";
+} else {
+  return "Between 5 and 15";
+}
+```
 
