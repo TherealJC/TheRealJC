@@ -128,3 +128,145 @@ switch(lowercaseLetter) {
 
 `case` values are tested with strict equality \(`===`\). The `break` tells JavaScript to stop executing statements. If the `break` is omitted, the next statement will be executed.
 
+If the `break` statement is omitted from a `switch` statement's `case`, the following `case` statement\(s\) are executed until a `break` is encountered. If you have multiple inputs with the same output, you can represent them in a `switch` statement like this:
+
+```text
+switch(val) {
+  case 1:
+  case 2:
+  case 3:
+    result = "1, 2, or 3";
+    break;
+  case 4:
+    result = "4 alone";
+}
+
+Cases for 1, 2, and 3 will all produce the same result.
+```
+
+
+
+If you have many options to choose from, a `switch` statement can be easier to write than many chained `if`/`else if` statements. The following:
+
+```text
+if (val === 1) {
+  answer = "a";
+} else if (val === 2) {
+  answer = "b";
+} else {
+  answer = "c";
+}
+```
+
+can be replaced with:
+
+```text
+switch(val) {
+  case 1:
+    answer = "a";
+    break;
+  case 2:
+    answer = "b";
+    break;
+  default:
+    answer = "c";
+}
+```
+
+Sometimes people use an if/else statement to do a comparison, like this:
+
+```text
+function isEqual(a,b) {
+  if (a === b) {
+    return true;
+  } else {
+    return false;
+  }
+}
+```
+
+But there's a better way to do this. Since `===` returns `true` or `false`, we can return the result of the comparison:
+
+```text
+function isEqual(a,b) {
+  return a === b;
+}
+```
+
+You may have heard the term `object` before.
+
+Objects are similar to `arrays`, except that instead of using indexes to access and modify their data, you access the data in objects through what are called `properties`.
+
+Objects are useful for storing data in a structured way, and can represent real world objects, like a cat.
+
+Here's a sample cat object:
+
+```text
+var cat = {
+  "name": "Whiskers",
+  "legs": 4,
+  "tails": 1,
+  "enemies": ["Water", "Dogs"]
+};
+```
+
+In this example, all the properties are stored as strings, such as - `"name"`, `"legs"`, and `"tails"`. However, you can also use numbers as properties. You can even omit the quotes for single-word string properties, as follows:
+
+```text
+var anotherObject = {
+  make: "Ford",
+  5: "five",
+  "model": "focus"
+};
+```
+
+However, if your object has any non-string properties, JavaScript will automatically typecast them as strings.  
+
+
+You can add new properties to existing JavaScript objects the same way you would modify them.
+
+Here's how we would add a `"bark"` property to `ourDog`:
+
+`ourDog.bark = "bow-wow";`   or
+
+`ourDog["bark"] = "bow-wow";`
+
+Now when we evaluate `ourDog.bark`, we'll get his bark, "bow-wow".
+
+Example:
+
+```text
+var ourDog = {
+  "name": "Camper",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["everything!"]
+};
+
+ourDog.bark = "bow-wow";
+```
+
+
+
+Objects can be thought of as a key/value storage, like a dictionary. If you have tabular data, you can use an object to "lookup" values rather than a `switch` statement or an `if/else` chain. This is most useful when you know that your input data is limited to a certain range.
+
+Here is an example of a simple reverse alphabet lookup:
+
+```text
+var alpha = {
+  1:"Z",
+  2:"Y",
+  3:"X",
+  4:"W",
+  ...
+  24:"C",
+  25:"B",
+  26:"A"
+};
+alpha[2]; // "Y"
+alpha[24]; // "C"
+
+var value = 2;
+alpha[value]; // "Y"
+```
+
