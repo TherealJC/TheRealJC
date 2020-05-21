@@ -15,4 +15,5 @@
 * [Code Camp JS](code-camp-js.md)
 * [Activity 4.1](activity-4.1.md)
 * [Activity 4.2](activity-4.2.md)
+* [Activity 5.1](activity-5.1.md)
 
