@@ -39,3 +39,5 @@ Disadvantages: The disadvantage of waterfall development is that it does not all
 * Cannot accommodate changing requirements.
 * Adjusting scope during the life cycle can end a project.
 
+![](.gitbook/assets/waterfall.png)
+
