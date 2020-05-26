@@ -3,6 +3,7 @@
 * [Activity 1.1](README.md)
 * [Activity 1.2](activity-1.2.md)
 * [Activity 1.3](activity-1.3.md)
+* [Code Camp JS](code-camp-js.md)
 * [Wireframe DES501](28-2-2020-des501.md)
 * [Activity 1.4](activity-1.4.md)
 * [Activity 1.5](activity-1.5.md)
@@ -12,9 +13,9 @@
 * [Activity 2.3](activity-2.3.md)
 * [Activity 3.1](activity-3.1.md)
 * [Activity 3.2](activity-3.2.md)
-* [Code Camp JS](code-camp-js.md)
 * [Activity 4.1](activity-4.1.md)
 * [Activity 4.2](activity-4.2.md)
 * [Activity 5.1](activity-5.1.md)
 * [Activity 5.2](activity-5.2.md)
+* [Operating Systems](operating-systems.md)
 
