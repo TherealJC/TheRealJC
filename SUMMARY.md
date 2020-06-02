@@ -18,5 +18,4 @@
 * [Activity 5.1](activity-5.1.md)
 * [Activity 5.2](activity-5.2.md)
 * [Activity 5.3](activity-5.3.md)
-* [Operating Systems](operating-systems.md)
 
