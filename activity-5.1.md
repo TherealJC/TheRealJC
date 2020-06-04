@@ -8,20 +8,20 @@ description: >-
 
 1. Explain in your own words what interface elements are
 
-* Interface elements are basically all of the smaller elements on a page that can display information, do something when clicked, serve a set purpose. Interface elements are things like buttons, drop down menus and search bars, what happens when you hover over a certain area of your page \(e.g hovering makes button darken and show buttons that open a menu. these are all interface elements.
-* Nowadays pages are made up of multiple different elements, all working together to make the page look better, or to make it more accessible, or easier on the user.
+* Interface elements are basically all of the smaller elements on a page that can display information, do something when clicked, serve a set purpose. Interface elements are things like buttons, drop down menus, search bars, tool-tips, what happens when you hover over a certain area of your page \(e.g hovering makes the button darken and show buttons that open a menu. these are all interface elements.
+* Pages are made up of multiple different elements, all working together to make the page look better, or to make it more accessible, or easier on the user.
 * "sometimes elements that can help save you space, put more of a burden on the user mentally by forcing them to guess what is within the drop-down or what the element might be." -_UI Design Basics._
 
 A good interface is simple, consistent, purposeful in it's layout, uses color and typography to make the page easier to understand and give it structure, make sure the system informs the user of what's happening.
 
 Interface elements include but are not limited to:
 
-* **Input Controls**: buttons, text fields, check-boxes, radio buttons, drop-down lists, list boxes, toggles, date field
+* **Input Controls**: buttons, text fields, check-boxes, radio buttons, drop-down lists, list boxes, toggles, date field.
 * **Navigational Components**: breadcrumb, slider, search field, pagination, slider, tags, icons
-* **Informational Components**: tool-tips, icons, progress bar, notifications, message boxes, modal windows
+* **Informational Components**: tool-tips, icons, progress bar, notifications, message boxes, modal windows.
 * **Containers**: accordion
 
-We have become very used to a set type of layout for our web pages, so it is good to stick with these elements as to not confuse the user \(example, exit button top right, with minimise and expand window, a back button will go back a page\).
+We have become very used to a set type of layout for our web pages, so it is good to stick with these elements as to not confuse the user \(example, exit button top right, with minimize and expand window, a back button will go back a page\).
 
 
 
