@@ -19,4 +19,6 @@
 * [Activity 5.3](activity-5.3.md)
 * [Activity 6.1](activity-6.1.md)
 * [Activity 6.2](activity-6.2.md)
+* [Activity 6.3](activity-6.3.md)
+* [Activity 6.4](activity-6.4.md)
 
